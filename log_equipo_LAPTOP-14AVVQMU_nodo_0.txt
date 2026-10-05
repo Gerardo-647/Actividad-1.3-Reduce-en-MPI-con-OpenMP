@@ -1,0 +1,9 @@
+
+[INFO] Tiempo de ejecucion operacion: 6.28417 segundos.
+
+[INFO] Tiempo de ejecucion operacion: 6.2799 segundos.
+
+[INFO] Tiempo de ejecucion operacion: 6.96713 segundos.
+[RESULTADO] Sumatoria Total del Arreglo A: 65561348427
+[RESULTADO] Promedio Global del Arreglo A: 16390.3
+[RESULTADO] Sumatoria Total del Arreglo A: 65509017530
